@@ -39,3 +39,20 @@ button {
   cursor: pointer;
   margin: 0 auto;
 }
+.container {
+  position: relative;
+}
+.mainContainer {
+  width: 50vw;
+  height: 100vh;
+  border-radius: 5px;
+  border: 0.5px solid var(--color-primary);
+}
+
+.username {
+  font-weight: bold;
+  color: var(--color-primary);
+  position: absolute;
+  top: 15px;
+  right: 20px;
+}
