@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "ps1",
+      "name": "Masha Raymers",
+      "userImg": "https://images.pexels.com/photos/2726111/pexels-photo-2726111.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+    },
+    {
+      "id": "ps2",
+      "name": "Philip Hutton",
+      "userImg": "https://images.pexels.com/photos/947639/pexels-photo-947639.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+    }
+  ],
+  "posts": [
+    {
+      "id": "ps1",
+      "title": "Woman leaning on a railing with head down",
+      "name": "Masha Raymers",
+      "userImg": "https://images.pexels.com/photos/2726111/pexels-photo-2726111.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "postImg": "https://images.pexels.com/photos/3601494/pexels-photo-3601494.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+    },
+    {
+      "id": "ps2",
+      "title": "Beautiful morning in the nature",
+      "name": "Philip Hutton",
+      "userImg": "https://images.pexels.com/photos/947639/pexels-photo-947639.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "postImg": "https://images.pexels.com/photos/947643/pexels-photo-947643.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+}

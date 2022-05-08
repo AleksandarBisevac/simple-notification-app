@@ -1,6 +1,6 @@
 import './App.css';
-import Card from './components/card/Card';
-import Navbar from './components/navbar/Navbar';
+import React from 'react';
+
 import Login from './pages/Login';
 import { useAuthContext } from './authContext/authContext';
 import Main from './pages/Main';

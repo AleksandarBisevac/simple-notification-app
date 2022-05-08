@@ -2,6 +2,8 @@
 /client/.pnp
 /client/.pnp.js
 
+/socket/node_modules
+
 # testing
 /client//coverage
 
